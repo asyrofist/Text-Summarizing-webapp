@@ -1,2 +1,3 @@
 newspaper3k
 bert-extractive-summarizer
+torch
